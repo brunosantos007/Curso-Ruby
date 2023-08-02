@@ -13,3 +13,4 @@ puts "Seu salário é #{salario}"
 
 # inspect = mostra o que tem dentro de variavel juntamente com espaços e cliques /n
 # chomp = remove o código dfe formatação /n
+# .class - diz o que a variavel é
