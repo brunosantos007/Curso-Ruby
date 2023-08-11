@@ -7,3 +7,9 @@ Exemplo: rails generate scaffold Coin description:string acronym:string url_imag
 
 # Comando para ligar o servidor para podermos rodar nosso APP:
 <p>bundle exec rails server - caminho: localhost:3000</p>
+
+# Comando para acessar o banco no terminal:
+<p>rails db</p>
+
+# Comando para trocar de ambiente :
+<p>rails s -e production</p>
