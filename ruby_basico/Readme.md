@@ -13,3 +13,6 @@ Exemplo: rails generate scaffold Coin description:string acronym:string url_imag
 
 # Comando para trocar de ambiente :
 <p>rails s -e production</p>
+
+# Comando para adicionar algo dentro de uma variavel ou array:
+<p><<-nome_variavel</p>
